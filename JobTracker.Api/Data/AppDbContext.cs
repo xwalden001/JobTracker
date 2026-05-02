@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using JobTracker.Api.Models;
+using System.Net;
 
 namespace JobTracker.Api.Data;
 

@@ -120,3 +120,4 @@
 /Users/xavierlatimerstoray/github/JobTracker/JobTracker.Api/obj/Debug/net10.0/JobTracker.Api.pdb
 /Users/xavierlatimerstoray/github/JobTracker/JobTracker.Api/obj/Debug/net10.0/JobTracker.Api.genruntimeconfig.cache
 /Users/xavierlatimerstoray/github/JobTracker/JobTracker.Api/obj/Debug/net10.0/ref/JobTracker.Api.dll
+/Users/xavierlatimerstoray/github/JobTracker/JobTracker.Api/obj/Debug/net10.0/JobTracker.Api.sourcelink.json

@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using JobTracker.Api.Data;
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
